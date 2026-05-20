@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kali-enak-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Kali Enak 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kali-enak-2/) |
+| **Get License** | [Request Licensing for Kali Enak 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kali-enak-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit cd5e0d2841f83fb59b1d70adbb88bfe31651f1a1
+> Kaali raat da hanera, dark magic tera ni
+> Hosh main gawaanda, wild thoughts mera ni
+> Naina vicho peenda haan sweet poison wangu
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
