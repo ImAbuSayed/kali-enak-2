@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kali Enak 2
+
+This log tracks the cryptographic history and versioning for the song **Kali Enak 2** (kali-enak-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T21:13:31.456567 | `v1` | `82e76346da87b058a3a0a9a595ff9caaf31c0612219cc5624921760da1096a6a` | `d63fa5319bec5c6ecdd8f8566b6f7ca18f9b6ea0fbcb569a39c6fbbd63d91d43` | `2026-05-20_kali-enak-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

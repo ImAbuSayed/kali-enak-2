@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kali-enak-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Kali Enak 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kali-enak-2/) |
+| **Get License** | [Music Rights & Licensing for Kali Enak 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kali-enak-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `82e76346da87b058a3a0a9a595ff9caaf31c0612219cc5624921760da1096a6a` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
